@@ -1,30 +1,6 @@
 # HR-Workforce-Analytics-Dashboard
 An end-to-end HR Workforce Analytics project using Python, MySQL, SQL, and Power BI to analyze employee demographics, attrition trends, workforce distribution, and business insights through an interactive dashboard.
 
-HR-Workforce-Analytics-Dashboard
-│
-├── Dashboard/
-│   ├── HR_Workforce_Analytics.pbix
-│   └── Dashboard_Screenshot.png
-│
-├── Dataset/
-│   └── HR_Employee_Attrition.csv
-│
-├── SQL/
-│   └── HR_Analytics_SQL_Queries.sql
-│
-├── Python/
-│   └── Data_Cleaning.ipynb
-│
-├── Images/
-│   ├── Dashboard_Page1.png
-│   ├── Dashboard_Page2.png
-│   └── Dashboard_Preview.png
-│
-├── README.md
-│
-└── LICENSE
-
 
 Project Overview
 
@@ -35,12 +11,12 @@ Business Problem
 Employee attrition has a direct impact on recruitment costs, productivity, and organizational performance. HR teams require interactive dashboards to monitor workforce trends, identify high-risk employee groups, and make informed retention decisions.
 
 Tools & Technologies
-Python (Pandas)
-MySQL
-SQL
-Power BI
-DAX
-Microsoft Excel
+- Python (Pandas)
+- MySQL
+- SQL
+- Power BI
+- DAX
+- Microsoft Excel
 
 CSV Dataset
       │
@@ -61,13 +37,13 @@ Business Insights
 
 Dashboard Features
 
-KPI Cards
-Total Employees
-Active Employees
-Attrition Count
-Attrition Rate
-Average Age
-Average Monthly Income
+-KPI Cards
+-Total Employees
+-Active Employees
+-Attrition Count
+-Attrition Rate
+-Average Age
+-Average Monthly Income
 
 Workforce Analysis
 
