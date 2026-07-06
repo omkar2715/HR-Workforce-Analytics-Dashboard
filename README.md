@@ -18,23 +18,6 @@ Tools & Technologies
 - DAX
 - Microsoft Excel
 
-- CSV Dataset
-      │
-      ▼
-- Python (Data Validation)
-      │
-      ▼
-- MySQL Database
-      │
-      ▼
-- SQL Analysis
-      │
-      ▼
-- Power BI Dashboard
-      │
-      ▼
-- Business Insights
-
 Dashboard Features
 
 - KPI Cards
