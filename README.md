@@ -18,54 +18,54 @@ Tools & Technologies
 - DAX
 - Microsoft Excel
 
--CSV Dataset
+- CSV Dataset
       │
       ▼
--Python (Data Validation)
+- Python (Data Validation)
       │
       ▼
--MySQL Database
+- MySQL Database
       │
       ▼
--SQL Analysis
+- SQL Analysis
       │
       ▼
--Power BI Dashboard
+- Power BI Dashboard
       │
       ▼
--Business Insights
+- Business Insights
 
 Dashboard Features
 
--KPI Cards
--Total Employees
--Active Employees
--Attrition Count
--Attrition Rate
--Average Age
--Average Monthly Income
+- KPI Cards
+- Total Employees
+- Active Employees
+- Attrition Count
+- Attrition Rate
+- Average Age
+- Average Monthly Income
 
 Workforce Analysis
 
--Distribution
--Job Role Distribution
--Gender Distribution
--Age Group Distribution
+- Distribution
+- Job Role Distribution
+- Gender Distribution
+- Age Group Distribution
 
 Employee Analytics
 
--Attrition by Department
--Overtime vs Attrition
--Work-Life Balance vs Attrition
--Job Satisfaction vs Attrition
--Business Travel Distribution
--Education Field Distribution
--Top Job Roles by Average Monthly Income
+- Attrition by Department
+- Overtime vs Attrition
+- Work-Life Balance vs Attrition
+- Job Satisfaction vs Attrition
+- Business Travel Distribution
+- Education Field Distribution
+- Top Job Roles by Average Monthly Income
 
 Key Business Insights
 
--Overall employee attrition rate is 16.12%.
--Research & Development has the largest workforce.
--Sales department shows the highest attrition.
--Employees aged 26–35 represent the largest workforce segment.
-=Poor work-life balance and overtime are associated with increased employee turnover.
+- Overall employee attrition rate is 16.12%.
+- Research & Development has the largest workforce.
+- Sales department shows the highest attrition.
+- Employees aged 26–35 represent the largest workforce segment.
+= Poor work-life balance and overtime are associated with increased employee turnover.
