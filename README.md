@@ -1,10 +1,6 @@
 # HR-Workforce-Analytics-Dashboard
 An end-to-end HR Workforce Analytics project using Python, MySQL, SQL, and Power BI to analyze employee demographics, attrition trends, workforce distribution, and business insights through an interactive dashboard.
 
-
-<img width="1378" height="803" alt="Screenshot (82)" src="https://github.com/user-attachments/assets/6ed3148f-4786-4e43-a8e3-ef5a12ee672b" />
-
-
 Project Overview
 
 This project demonstrates an end-to-end HR analytics workflow by integrating Python, MySQL, SQL, and Power BI. The objective is to analyze workforce demographics, employee attrition, job satisfaction, overtime, compensation, and departmental trends to support data-driven HR decision-making.
